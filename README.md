@@ -1,1 +1,1 @@
-# Largest-Permutation-algo
+# Largest-Permutation-algo he program rearranges the array to form the largest possible permutation using at most k swaps. It does this by placing the largest possible value in each position, using a hash map for efficient index tracking and swapping only when necessary.
